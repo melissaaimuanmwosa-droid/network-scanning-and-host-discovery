@@ -132,3 +132,16 @@ Aimuanmwosa Melissa
 Focus: Cybersecurity, Ethical Hacking and Linux
 
 Project: Network Scanning and Host Discovery
+## Screenshots
+
+### 1. Network Configuration
+![Network Configuration](<screenshots/Screenshot (942).png>)
+
+### 2. Network Adapter Information
+![Network Adapters](<screenshots/Screenshot (943).png>)
+
+### 3. Initial Network Scan
+![Initial Scan](<screenshots/Screenshot (944).png>)
+
+### 4. Live Host Discovery
+![Live Host Discovery](<screenshots/Screenshot (947).png>)
